@@ -1,4 +1,7 @@
 module.exports = {
+	 "ecmaFeatures": {
+    		"generators": true,
+  	},
 	"env": {
 		"es6": true,
 	},
@@ -132,5 +135,6 @@ module.exports = {
 		}],
 		"object-curly-spacing": [2, "always"],
 		"array-bracket-spacing": [2, "never"],
+		"generator-star-spacing": [2, "before"],
 	},
 }
