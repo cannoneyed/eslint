@@ -1,2 +1,2 @@
 # eslint
-preferred eslint settings
+Preferred eslint settings... nuff said
