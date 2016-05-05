@@ -1,0 +1,2 @@
+# eslint
+preferred eslint settings
